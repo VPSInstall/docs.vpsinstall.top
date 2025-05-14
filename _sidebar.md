@@ -1,2 +1,4 @@
 - [Home](/)
-- [Login and verify account](docs/login.md)
+- Login
+  - [Login](docs/login.md)
+  - [Verify account](docs/verify.md)
