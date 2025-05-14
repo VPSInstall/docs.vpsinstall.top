@@ -1,2 +1,2 @@
 - [Home](/)
-- [Getting Started](getting-started.md)
+- [Login and verify account](docs/login.md)
