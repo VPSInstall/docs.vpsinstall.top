@@ -19,3 +19,7 @@
 ![Installation progress](../imgs/install4.png)
 7. Once the installation is complete, you will see a success message.
 ![Installation success](../imgs/install5.png)
+
+# Video
+You can watch the video tutorial on how to install Windows on Linux VPS:
+[![Watch the video](https://img.youtube.com/vi/h6_-rW-iLZ0/0.jpg)](https://www.youtube.com/watch?v=h6_-rW-iLZ0)
